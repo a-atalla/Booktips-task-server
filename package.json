@@ -1,0 +1,17 @@
+{
+  "name": "gbook-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "googleapis": "^20.1.0",
+    "morgan": "^1.8.2"
+  }
+}
