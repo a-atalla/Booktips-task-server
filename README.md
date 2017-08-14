@@ -3,7 +3,7 @@
 
 ```
 git clone git@github.com:a-atalla/Booktips-task-server.git
-cd Booktips-task-client
+cd Booktips-task-server
 npm install
 npm start
 ```
